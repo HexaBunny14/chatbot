@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Entertainment Chatbot</title>
+    <!-- Modern Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="background-animation"></div>
+    
+    <div class="chat-container">
+        <!-- Header -->
+        <header class="chat-header">
+            <div class="header-left">
+                <div class="bot-avatar">
+                    <i class="fa-solid fa-robot"></i>
+                </div>
+                <div class="bot-info">
+                    <h2>FunBot</h2>
+                    <span class="status">Ready to chat</span>
+                </div>
+            </div>
+            <div class="header-right">
+                <button id="theme-toggle" class="icon-btn" aria-label="Toggle Theme">
+                    <i class="fa-solid fa-moon"></i>
+                </button>
+            </div>
+        </header>
+
+        <!-- Chat History -->
+        <div class="chat-body" id="chat-body">
+            <div class="message bot">
+                <div class="message-content">
+                    Hey there! I'm FunBot, your ultimate Entertainment Assistant! What are we doing today? Want a movie recommendation 🎬, some fresh music 🎵, or maybe just a quick joke 😂? Let's go!
+                </div>
+                <div class="message-time">Now</div>
+            </div>
+        </div>
+
+        <!-- Input Area -->
+        <div class="chat-footer">
+            <form id="chat-form">
+                <input type="text" id="user-input" placeholder="Type a message..." autocomplete="off" required>
+                <button type="submit" id="send-btn">
+                    <i class="fa-solid fa-paper-plane"></i>
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,204 @@
+{
+  "greetings": {
+    "en": {
+      "mixed": [
+        "Hey there! I'm FunBot. Ready for some entertainment?",
+        "What's up! Need a joke, some tunes, or a great movie?",
+        "Hello! I'm your go-to bot for all things fun. What can I do for you today?"
+      ]
+    },
+    "hi": {
+      "mixed": [
+        "Namaste! Main FunBot hoon. Boliye, aaj kya entertain kiya jaye?",
+        "Hey! Aaj kya plan hai? Koi movie ya naya gaana?",
+        "Hello! Entertainment ke liye main hamesha ready hoon. Bataiye?"
+      ]
+    }
+  },
+  "movie_recommendations": {
+    "en": {
+      "international": [
+        "I highly recommend 'Dune: Part Two'. The visual scale is absolutely breathtaking.",
+        "If you enjoy historical dramas, 'Oppenheimer' is a brilliant watch.",
+        "For pure action and sci-fi, you should definitely check out 'Furiosa: A Mad Max Saga'."
+      ],
+      "indian": [
+        "You should watch 'Kalki 2898 AD'. It's a massive sci-fi epic with incredible visuals.",
+        "If you want an intense action drama, 'Animal' has been hugely popular.",
+        "For a highly entertaining blockbuster, 'Jawan' is a great choice."
+      ],
+      "mixed": [
+        "I'd suggest 'Oppenheimer' for a deep Hollywood drama, or 'Kalki 2898 AD' for a grand Indian sci-fi experience.",
+        "How about 'Dune: Part Two' or a recent Bollywood hit like 'Fighter'?"
+      ]
+    },
+    "hi": {
+      "international": [
+        "Aapko 'Dune: Part Two' dekhni chahiye, uske visuals kamaal ke hain.",
+        "Agar action pasand hai toh 'Furiosa' ek behtareen choice hai."
+      ],
+      "indian": [
+        "Aapko 'Kalki 2898 AD' dekhni chahiye, yeh ek bahut badi sci-fi movie hai.",
+        "Agar intense action dekhna hai toh 'Animal' ya 'Jawan' dekhiye."
+      ],
+      "mixed": [
+        "Aap Bollywood ki 'Fighter' ya Hollywood ki 'Oppenheimer' dekh sakte hain.",
+        "Action ke liye 'Jawan' ya 'Dune: Part Two' try karein."
+      ]
+    }
+  },
+  "jokes": {
+    "en": {
+      "mixed": [
+        "Why don't scientists trust atoms? Because they make up everything! 😄",
+        "What do you call fake spaghetti? An impasta! 😂",
+        "I told my doctor that I broke my arm in two places. He told me to stop going to those places. 😂"
+      ]
+    },
+    "hi": {
+      "mixed": [
+        "Teacher: 'Hathi aur cheeti mein kya fark hai?' Student: 'Cheeti ke paon mein hathi ka paon nahi aa sakta, par hathi ke paon mein cheeti ka paon aa sakta hai!' 😄",
+        "Pappu: 'Mummy, main kaise paida hua?' Mummy: 'Maine tujhe internet se download kiya hai!' 😂",
+        "Ek machhar bola: 'Bhai, udas kyun hai?' Dusra bola: 'Doctor banna tha, par khoon choosne wala ban gaya!' 😂"
+      ]
+    }
+  },
+  "music_suggestions": {
+    "en": {
+      "international": [
+        "Listen to 'Cruel Summer' by Taylor Swift. It's incredibly catchy.",
+        "I recommend checking out the latest hits by Sabrina Carpenter or Billie Eilish."
+      ],
+      "indian": [
+        "You should listen to 'Chaleya' from Jawan. It's a very popular track.",
+        "For energetic vibes, try 'Tauba Tauba' by Karan Aujla."
+      ],
+      "mixed": [
+        "Try 'Texas Hold 'Em' by Beyonce or a huge Indian hit like 'Tauba Tauba'.",
+        "You can vibe to 'Espresso' by Sabrina Carpenter or 'O Maahi' by Arijit Singh."
+      ]
+    },
+    "hi": {
+      "international": [
+        "Aap Taylor Swift ka 'Cruel Summer' ya Sabrina Carpenter ka gaana sun sakte hain.",
+        "English gaano mein aaj kal Billie Eilish ke tracks bahut chal rahe hain."
+      ],
+      "indian": [
+        "Aap Jawan movie ka 'Chaleya' sun sakte hain, bahut hit hai.",
+        "Dance karne ka mood hai toh Karan Aujla ka 'Tauba Tauba' lagaiye."
+      ],
+      "mixed": [
+        "Aap Hollywood ka 'Espresso' ya Bollywood ka 'O Maahi' sun sakte hain."
+      ]
+    }
+  },
+  "trending_topics": {
+    "en": {
+      "international": [
+        "Generative AI in filmmaking and the upcoming Marvel cinematic phases are huge topics right now.",
+        "The expansion of virtual reality gaming and upcoming GTA VI details are trending heavily."
+      ],
+      "indian": [
+        "The success of massive Pan-India cinematic universes like Kalki 2898 AD is trending everywhere.",
+        "Upcoming major Bollywood sequels and OTT streaming exclusives are dominating the news."
+      ],
+      "mixed": [
+        "Globally, AI in entertainment is a massive trend, while in India, Pan-India blockbusters are the main focus."
+      ]
+    },
+    "hi": {
+      "international": [
+        "Aaj kal Hollywood mein AI movies aur aane wali Marvel films trend kar rahi hain.",
+        "Gaming duniya mein GTA VI ko lekar bahut zyada charcha hai."
+      ],
+      "indian": [
+        "Aaj kal Kalki 2898 AD jaisi badi Pan-India movies ka bohot bada trend hai.",
+        "OTT platforms par aane wali nayi web series ki har jagah charcha hai."
+      ],
+      "mixed": [
+        "Duniya mein AI aur gaming ka trend hai, jabki India mein Pan-India movies dhoom macha rahi hain."
+      ]
+    }
+  },
+  "fun_facts": {
+    "en": {
+      "international": [
+        "Did you know? The sounds of the velociraptors communicating in Jurassic Park were actually recordings of tortoises mating.",
+        "Did you know? The movie 'Psycho' was the first American film to show a toilet flushing on screen.",
+        "Here's a fact: Sean Connery wore a toupee in every single one of his James Bond movies."
+      ],
+      "indian": [
+        "Did you know? 'Dilwale Dulhania Le Jayenge' has been playing uninterrupted at the Maratha Mandir theater in Mumbai since 1995.",
+        "Here is a fact: 'Lagaan' was the first Indian film to have its premiere in China.",
+        "Did you know? Hrithik Roshan's real surname is Nagrath, not Roshan."
+      ],
+      "mixed": [
+        "Did you know? 'Avatar' is the highest-grossing film of all time, while 'Dangal' is the highest-grossing Indian film globally.",
+        "Here is a fun fact: Will Smith turned down the role of Neo in 'The Matrix' to star in 'Wild Wild West'.",
+        "Did you know? The iconic Bollywood song 'Chaiyya Chaiyya' was shot entirely on a moving train without any camera tricks."
+      ]
+    },
+    "hi": {
+      "international": [
+        "Kya aap jante hain? 'Jurassic Park' mein velociraptors ki awaz asal mein kachhuo ki awaz ki recording thi.",
+        "Ek rochak tatthya: 'Psycho' pehli American film thi jismein on-screen toilet flush hote hue dikhaya gaya tha."
+      ],
+      "indian": [
+        "Kya aap jante hain? Mumbai ke Maratha Mandir theater mein 'DDLJ' 1995 se lagatar chal rahi hai.",
+        "Ek jankari: 'Lagaan' pehli aisi Indian film thi jiska premiere China mein hua tha."
+      ],
+      "mixed": [
+        "Kya aap jante hain? 'Avatar' duniya ki sabse zyada kamai karne wali film hai, aur 'Dangal' sabse zyada kamai karne wali Indian film.",
+        "Kya aap jante hain? 'The Matrix' mein Neo ka role pehle Will Smith ko offer hua tha."
+      ]
+    }
+  },
+  "laughter": {
+    "en": {
+      "mixed": [
+        "Glad you liked that! 😄 Want another one?",
+        "I know, right? Want a movie to go with those laughs?",
+        "Feel free to ask for another joke anytime!"
+      ]
+    },
+    "hi": {
+      "mixed": [
+        "Lagta hai aapko mazaa aaya! 😄 Ek aur sunau?",
+        "Hasne se health achhi rehti hai. Aur koi chutkula chahiye?",
+        "Chaliye ek aur movie bataun hasne ke liye?"
+      ]
+    }
+  },
+  "agreement": {
+    "en": {
+      "mixed": [
+        "Want another recommendation?",
+        "I can suggest more if you'd like.",
+        "Awesome! Let me know if you want another movie, song, or joke!"
+      ]
+    },
+    "hi": {
+      "mixed": [
+        "Kya aapko ek aur recommendation chahiye?",
+        "Main aur bhi suggestions de sakta hoon agar aap chaho toh.",
+        "Badhiya! Boliye, ek aur movie ya gaana ho jaye?"
+      ]
+    }
+  },
+  "gratitude": {
+    "en": {
+      "mixed": [
+        "You're very welcome.",
+        "Anytime. I'm always here to help.",
+        "Glad I could help. Let's chat more whenever you want."
+      ]
+    },
+    "hi": {
+      "mixed": [
+        "Aapka swagat hai.",
+        "Koi baat nahi, main yahan entertain karne ke liye hi hoon.",
+        "Khushi hui aapki madad karke."
+      ]
+    }
+  }
+}
